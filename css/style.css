@@ -1,0 +1,88 @@
+.box1{
+
+	    background-color: white;
+    color: #151414;
+    width: 1000px;
+    text-align: center;
+    font-family: comic sans ms;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 26px;
+
+
+    
+}
+
+.logo{
+	width: 200px;
+    height: 100px;
+    margin: auto;
+    display: block;
+	}
+.mlogo{
+
+	max-width: 100%;
+box-shadow: 5px 6px 15px #3a3535;
+}
+
+
+
+.color1{
+
+	color: blue;
+}
+.color2{
+
+	color: red;
+}
+.color3{
+
+	color: green;
+}
+.color4{
+
+	color: #ff9900;
+}
+
+.line{
+
+	text-align: left;
+}
+
+.btn{
+
+    text-decoration: none;
+	    background-color:#1d6b40;
+    color: white;
+     padding:15px;
+    text-align: center;
+    font-family: comic sans ms;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.team{
+
+font-size: 50px;
+color: #061c58;
+text-shadow:4px 8px 11px #3a353563;
+
+
+}
+.pl{
+
+	text-align: center;
+}
+
+.box2{
+
+	    background-color:#1d6b40;
+    color: white;
+    width: 600px;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 20px ;   margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    padding: 26px;
+    box-shadow: 5px 6px 15px #3a3535;
